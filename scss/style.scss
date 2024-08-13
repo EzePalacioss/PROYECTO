@@ -7,7 +7,7 @@
 @import "layout/index";
 
 
-@media (max-width: 447px){
+@media (max-width: 480px){
     .sec-art img{
         display: none;
     }
@@ -16,4 +16,10 @@
         font-size: 25px;
         margin-bottom: 10px;
     }
+
+    .sec-contact p{
+        font-size: 16px;
+    }
+
 }
+

@@ -260,13 +260,16 @@ body {
   border-radius: 10px;
 }
 
-@media (max-width: 447px) {
+@media (max-width: 480px) {
   .sec-art img {
     display: none;
   }
   .sec-contact h2 {
     font-size: 25px;
     margin-bottom: 10px;
+  }
+  .sec-contact p {
+    font-size: 16px;
   }
 }
 
