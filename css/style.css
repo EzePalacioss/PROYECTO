@@ -260,4 +260,14 @@ body {
   border-radius: 10px;
 }
 
+@media (max-width: 447px) {
+  .sec-art img {
+    display: none;
+  }
+  .sec-contact h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -5,3 +5,15 @@
 @import "components/navbar";
 //layout
 @import "layout/index";
+
+
+@media (max-width: 447px){
+    .sec-art img{
+        display: none;
+    }
+
+    .sec-contact h2 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+}
